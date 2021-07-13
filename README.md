@@ -1,8 +1,9 @@
 # Generate Hybrid Partitions with Jaccard Index
 This code is part of my PhD at PPG-CC/DC/UFSCar. The aim is generate partitions from Jaccard index for multilabel classification.
 
-# Jaccard Partitions
+## Jaccard Partitions
 
+<img src="" width="100">
 
 
 ## Scripts
