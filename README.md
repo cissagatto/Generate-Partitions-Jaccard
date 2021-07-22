@@ -1,9 +1,14 @@
 # Generate Hybrid Partitions with Jaccard Index
 This code is part of my PhD at PPG-CC/DC/UFSCar. The aim is generate partitions from Jaccard index for multilabel classification.
 
-## Jaccard Partitions
+## Jaccard Partitions with Macro-F1
+<img src="https://github.com/cissagatto/Generate-Partitions-Jaccard/blob/main/images/HPML-JMa-Branco.png" width="100">
 
-<img src="" width="100">
+## Jaccard Partitions with Micro-F1
+<img src="https://github.com/cissagatto/Generate-Partitions-Jaccard/blob/main/images/HPML-JMi-Branco.png" width="100">
+
+## Jaccard Partitions with Silhouete
+<img src="https://github.com/cissagatto/Generate-Partitions-Jaccard/blob/main/images/HPML-JS-branco.png" width="100">
 
 
 ## Scripts
