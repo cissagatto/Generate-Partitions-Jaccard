@@ -2,7 +2,7 @@
 This code is part of my PhD at PPG-CC/DC/UFSCar. The aim is generate partitions from Jaccard index for multilabel classification.
 
 ## Types of Hybrid Partitions
-<img src="https://github.com/cissagatto/Generate-Partitions-Jaccard/blob/main/images/tipos_particoes_hibridas_transparente.png" width="100">
+<img src="https://github.com/cissagatto/Generate-Partitions-Jaccard/blob/main/images/tipos_particoes_hibridas_transparente.png" width="300">
 
 ## Jaccard Partitions with Macro-F1
 <img src="https://github.com/cissagatto/Generate-Partitions-Jaccard/blob/main/images/HPML-JMa-Branco.png" width="100">
