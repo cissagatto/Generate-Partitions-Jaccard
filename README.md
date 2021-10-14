@@ -1,6 +1,9 @@
 # Generate Hybrid Partitions with Jaccard Index
 This code is part of my PhD at PPG-CC/DC/UFSCar. The aim is generate partitions from Jaccard index for multilabel classification.
 
+## How to cite 
+@misc{Gatto2021, author = {Gatto, E. C.}, title = {Generate Jaccard Partitions for Multilabel Classification}, year = {2021}, publisher = {GitHub}, journal = {GitHub repository}, howpublished = {\url{https://github.com/cissagatto/Generate-Partitions-Jaccard}}}
+
 ## Types of Hybrid Partitions
 <img src="https://github.com/cissagatto/Generate-Partitions-Jaccard/blob/main/images/tipos_particoes_hibridas_transparente.png" width="300">
 
