@@ -1,5 +1,5 @@
 Config, Value
-Dataset_Path, /home/cissa/Datasets
+Dataset_Path, ~/Generate-Partitions-Jaccard/Datasets
 Temporary_Path, /dev/shm/gpj-GpositiveGO
 dataset_name, GpositiveGO
 number_dataset, 42
