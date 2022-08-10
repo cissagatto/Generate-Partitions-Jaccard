@@ -16,6 +16,8 @@ This code is part of my PhD at PPG-CC/DC/UFSCar. The aim is generate partitions 
 ## Jaccard Partitions with Silhouete
 <img src="https://github.com/cissagatto/Generate-Partitions-Jaccard/blob/main/images/HPML-JS-branco.png" width="100">
 
+**obs.: we used only single linkage to build the dendrogams and then cut it.**
+
 ## Source Code
 This code source is composed of the project R to be used in RStudio IDE and also the following scripts R:
 
