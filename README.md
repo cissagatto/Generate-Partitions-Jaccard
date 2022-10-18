@@ -4,17 +4,6 @@ This code is part of my PhD at PPG-CC/DC/UFSCar. The aim is generate partitions 
 ## How to cite 
 @misc{Gatto2021, author = {Gatto, E. C.}, title = {Generate Jaccard Partitions for Multilabel Classification}, year = {2021}, publisher = {GitHub}, journal = {GitHub repository}, howpublished = {\url{https://github.com/cissagatto/Generate-Partitions-Jaccard}}}
 
-## Types of Hybrid Jaccard Partitions
-<img src="https://github.com/cissagatto/Generate-Partitions-Jaccard/blob/main/images/tipos_particoes_hibridas_transparente.png" width="300">
-
-## Jaccard Partitions with Macro-F1
-<img src="https://github.com/cissagatto/Generate-Partitions-Jaccard/blob/main/images/HPML-JMa-Branco.png" width="100">
-
-## Jaccard Partitions with Micro-F1
-<img src="https://github.com/cissagatto/Generate-Partitions-Jaccard/blob/main/images/HPML-JMi-Branco.png" width="100">
-
-## Jaccard Partitions with Silhouete
-<img src="https://github.com/cissagatto/Generate-Partitions-Jaccard/blob/main/images/HPML-JS-branco.png" width="100">
 
 **obs.: we used only single linkage to build the dendrogams and then cut it.**
 
